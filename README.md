@@ -37,7 +37,7 @@ Installation To run this project, you need to have Python and the following libr
 
 -pandas</br>
 
--scikit-learn<?br>
+-scikit-learn</br>
 
 -matplotlib</br>
 
